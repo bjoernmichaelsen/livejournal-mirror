@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livejournal>
+<entry>
+<itemid>9361</itemid>
+<eventtime>2012-03-18 13:42:00</eventtime>
+<logtime>2012-03-18 12:42:32</logtime>
+<subject>Fourth LibreOffice Hamburg Home Hacking</subject>
+<event>Here are some snapshots taken with my phone from the fourth LibreOffice Hamburg Home Hacking:
+
+&lt;a href="http://pics.livejournal.com/sweetshark/pic/000090r8/"&gt;&lt;img src="http://pics.livejournal.com/sweetshark/pic/000090r8/s640x480" width="640" height="480" border='0'/&gt;&lt;/a&gt;
+
+&lt;a href="http://pics.livejournal.com/sweetshark/pic/000087rs/"&gt;&lt;img src="http://pics.livejournal.com/sweetshark/pic/000087rs/s640x480" width="640" height="480" border='0'/&gt;&lt;/a&gt;
+
+You can see Eike in the background on the couch that some lucky hacker might surf during the &lt;a href="http://wiki.documentfoundation.org/Hackfest/Hamburg2012"&gt;LibreOffice Hackfest 2012 in Hamburg&lt;/a&gt;.
+
+&lt;a href="http://pics.livejournal.com/sweetshark/pic/0000a99e/"&gt;&lt;img src="http://pics.livejournal.com/sweetshark/pic/0000a99e/s640x480" width="640" height="480" border='0'/&gt;&lt;/a&gt;
+
+And there they are -- smiling and happy after pasta and pancakes!</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>9491</itemid>
+<eventtime>2012-03-21 19:10:00</eventtime>
+<logtime>2012-03-21 18:10:34</logtime>
+<subject>LibreOffice QA EasyHacks</subject>
+<event>As discussed on &lt;a href="http://nabble.documentfoundation.org/Libreoffice-qa-LibreOffice-QA-call-2012-03-09-15-00-UTC-td3805645.html#none"&gt;the last QA call&lt;/a&gt;, here is a selection of Tasks related to QA that are easy for newcomers to get started with:&lt;ul&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47666" rel="nofollow" target="_blank"&gt;Easy Hack 47666&lt;/a&gt; - improve calc&amp;#39;s filters test cases&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47660" rel="nofollow" target="_blank"&gt;Easy Hack 47660&lt;/a&gt; - Implement read-only anonymous access for Litmus&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47657" rel="nofollow" target="_blank"&gt;Easy Hack 47657&lt;/a&gt; - Make a video showing how easy it is to use LibreOffice Litmus&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47656" rel="nofollow" target="_blank"&gt;Easy Hack 47656&lt;/a&gt; - Syncronize downstream/upstream bugs&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47653" rel="nofollow" target="_blank"&gt;Easy Hack 47653&lt;/a&gt; - Create VirtualBox image to generate stacktraces for crashes&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47652" rel="nofollow" target="_blank"&gt;Easy Hack 47652&lt;/a&gt; - Provide stacktraces for crashes in existing bug reports&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47648" rel="nofollow" target="_blank"&gt;Easy Hack 47648&lt;/a&gt; - Create VirtualBox for bibisecting&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=46504" rel="nofollow" target="_blank"&gt;Easy Hack 46504&lt;/a&gt; - Bibisect regressions in LibreOffic&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47658" rel="nofollow" target="_blank"&gt;Easy Hack 47658&lt;/a&gt; - add Open-ID authentification for Litmus&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47650" rel="nofollow" target="_blank"&gt;Easy Hack 47650&lt;/a&gt; - Create a bibisect repo for 3.3-&amp;gt;3.4&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=41568" rel="nofollow" target="_blank"&gt;Easy Hack 41568&lt;/a&gt; - BSA: user-friendly bug submission: gracefully handle bad gateway&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=43291" rel="nofollow" target="_blank"&gt;Easy Hack 43291&lt;/a&gt; - BSA: better feedback on why submit is not allowed yet&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=41256" rel="nofollow" target="_blank"&gt;Easy Hack 41256&lt;/a&gt; - BSA: no operation system selection in bugassistant&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47663" rel="nofollow" target="_blank"&gt;Easy Hack 47663&lt;/a&gt; - BSA: &lt;span id="summary_alias_container"&gt;&lt;span id="short_desc_nonedit_display"&gt;After finishing the bug submittal, show a invitation to join QA&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;A full list of QA-related things to get started in the project can be found here: &lt;a href="https://wiki.documentfoundation.org/QA/Easy_Hacks"&gt;https://wiki.documentfoundation.org/QA/Easy_Hacks&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Have Fun!</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>9876</itemid>
+<eventtime>2012-03-23 14:05:00</eventtime>
+<logtime>2012-03-23 13:05:29</logtime>
+<subject>News on the LibreOffice Hamburg Hackfest 2012 </subject>
+<event>Let me take this opportunity to shamelessly plug the &lt;a href="http://wiki.documentfoundation.org/Hackfest/Hamburg2012"&gt;LibreOffice Hamburg Hackfest on April 14/15, 2012&lt;/a&gt;. First let me tease you why visiting Hamburg and the Hackfest location is a good idea by quoting the Hackfest page:&lt;br /&gt;&lt;center&gt;&lt;img alt="Alsterpanorama" height="168" src="https://wiki.documentfoundation.org/images/d/dd/Alsterpanorama2.jpg" style="border-width: 0pt; border-style: solid;" width="799" /&gt;&lt;/center&gt;&lt;br /&gt;&lt;span style="font-size:smaller;"&gt;&lt;i&gt;The city of Hamburg has throughout history taken its freedom and independence as a high treasure -- as can be seen from the motto: &amp;quot;&lt;a class="external text" href="http://en.wikipedia.org/wiki/Hamburg_Rathaus" rel="nofollow" target="_blank"&gt;Libertatem&lt;/a&gt; quam peperere maiores digne studeat servare posteritas&amp;quot;. It is also the closest major city to the birthplace of the codebase that later became LibreOffice. We will meet at the Attraktor, one of the homebases of the &lt;a class="external text" href="http://en.wikipedia.org/wiki/Chaos_Computer_Club" rel="nofollow" target="_blank"&gt;Chaos Computer Club&lt;/a&gt;, which has an interesting history starting with tales of international spionage during the cold war and much more (see Wikipedia). They have become older, wiser and tamer at least a bit since then, but still originate cool projects like &lt;a class="external text" href="http://en.wikipedia.org/wiki/Project_Blinkenlights" rel="nofollow" target="_blank"&gt;Project Blinkenlights&lt;/a&gt;. Hamburg is rumored to have one of the worst climates of Germany (constant low-intensity rain), but luckily springtime is an exception: It is a most wonderful place then -- with sunshine, but not too hot.&lt;/i&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;As a proud local, I also decided to guide some sightseeing on Friday afternoon for people interested, so if you arrive early you might get to see some of the beautiful corners of Hamburg.&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.nerdshirt.de/index.php"&gt;Nerdshirt.de&lt;/a&gt; kindly sponsors us ten T-shirts for the participants. &lt;b&gt;We just decided to give those to the first ten people, who added themselves to the &lt;a href="https://wiki.documentfoundation.org/index.php?title=Hackfest/Hamburg2012#Participants"&gt;participant list&lt;/a&gt; completely with their name and shirtsize.&lt;/b&gt; First come, first serve here as is with travel bursaries and couch surfing, which is kindly provided by some of the Hamburg Hackers.&lt;br /&gt;&lt;br /&gt;(If you think this is some evil plot to get you to register early, you might be onto something, but please do not tell anybody!)</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>10155</itemid>
+<eventtime>2012-03-26 19:54:00</eventtime>
+<logtime>2012-03-26 17:54:42</logtime>
+<subject>Templates for the win!</subject>
+<event>There is so much going on in the world of LibreOffice, that my &amp;quot;must blog about this&amp;quot;-list gets longer and longer. Here is another little gem that had to wait far to long to get dragged into the limelight. Jussi Schultink kicked this one of with &lt;a href="http://jussi01.com/2012/03/17/templates-and-defaults/"&gt;a bit of an grumble post&lt;/a&gt; about the default settings and templates in LibreOffice. But the beauty of free software is that you are not left with grumbling as your first, last and only resort -- so &lt;a href="https://launchpad.net/~jussi01"&gt;Jussi&lt;/a&gt; teamed up with &lt;a href="https://launchpad.net/~alanbell"&gt;Alan Bell&lt;/a&gt; and founded the &lt;a href="https://launchpad.net/~ubuntutemplates"&gt;&amp;quot;Ubuntu Template Curators&amp;quot;&lt;/a&gt; to change and improve the situation. I connected the Template Curators with Stefan Knorr, Christoph Noack of LibreOffice User Experience and Design Team. Quickly Alexander Wilms of template and design creation fame also joined the bunch. With this team, I am looking forward for some amazing new templates and defaults improvements in LibreOffice 3.6/Ubuntu P+1!&lt;br /&gt;&lt;br /&gt;If you are interested in getting beautiful templates into LibreOffice, Im sure these guys would love to hear from you!&lt;br /&gt;&lt;br /&gt;(*) Or just want to show off in front of your friends, because people all over the world are using your template for their presentation ;)</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+</livejournal>

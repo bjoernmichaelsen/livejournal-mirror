@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livejournal>
+<entry>
+<itemid>13356</itemid>
+<eventtime>2012-07-06 00:58:00</eventtime>
+<logtime>2012-07-05 22:58:53</logtime>
+<subject>Rotated LibreOffice EasyHacks!</subject>
+<event>I just rotated the featured items on the &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks"&gt;LibreOffice EasyHacks Page&lt;/a&gt;. If you are interested in contributing and wondered what you could do, here are a few selected suggestions:&lt;br&gt; &lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=47652"&gt;Provide stacktraces for crashes in existing bug reports (Skills: Using a debugger, creating a build)
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=41291"&gt;Create a Libreoffice build session with playterm to help new developers (Skills: Building)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=46504"&gt;bibisect regressions (Skills: bibisecting)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=42974"&gt;get the build process to auto-magically copy the Visual Studio CRT files to the right place (Skills: build, autoconf)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=51694"&gt;vector presentations crash LibreOffice on load when --enable-rsvg=no (Skills: Skills: building the beast, C++ and exception handling)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38889"&gt;Make macro editing easier (Skills: simple C++ programming, willingness to learn a bit of VCL)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=42982"&gt;improve UNO API error reporting (Skills: building, simple C++ programming)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=48257"&gt;remove explicit prototypes in basic/ (Skills: simple C++)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38246"&gt;Change visibility of comments / notes via Notes Ruler Control (Skills: C++)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=50801"&gt;Wrong cross-reference text when Caption order is Numbering first (Skills: building, C++ hacking)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=45168"&gt;Size of PDF files can been reduced by use of croped images (Skills: building, C++ hacking)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=41256"&gt;Can't select operating system in bugzilla assistant (Skills: JavaScript hacking)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+You will find more info on the &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks"&gt;LibreOffice EasyHacks Page&lt;/a&gt; and an even wider range of things to do on the &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks_by_required_Skill"&gt;EasyHacks by required Skill Page&lt;/a&gt;.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>13736</itemid>
+<eventtime>2012-07-09 10:45:00</eventtime>
+<logtime>2012-07-09 08:45:47</logtime>
+<subject>Garbage collecting the LibreOffice development wiki entry pages</subject>
+<event>&lt;div style="text-align: right;"&gt;&lt;i&gt;&amp;quot;Oh, it&amp;#39;s a dirty job but someone&amp;#39;s gotta do it&amp;quot;&lt;/i&gt;&lt;br /&gt;-- Faith No More, &amp;quot;We Care A Lot&amp;quot;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;br /&gt;I just cleaned and sorted the LibreOffice development pages:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development"&gt;Development&lt;/a&gt; (compare the &lt;a href="https://wiki.documentfoundation.org/index.php?title=Development&amp;amp;oldid=51283"&gt;old version&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development/Native_Build"&gt;How to Build&lt;/a&gt; (compare the &lt;a href="https://wiki.documentfoundation.org/index.php?title=Development/Native_Build&amp;amp;oldid=52283"&gt;old version&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;which still contained lots of old, obsolete and even misleading content in a huge unsorted page, which likely nobody bothered to clean up because it ... was a huge unsorted page. I hope the new pages with lots of obsolete stuff killed and lots of nonessential/reference stuff moved down to the end of the page, leaving the top of the page for the essentials will make life quite a bit easier for new contributors!</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>13972</itemid>
+<eventtime>2012-07-16 12:39:00</eventtime>
+<logtime>2012-07-16 10:39:38</logtime>
+<subject>Call for Testing: Ubuntu LibreOffice packages</subject>
+<event>&lt;div style="text-align: right;"&gt;&lt;i&gt;Now these points of data make a beautiful line.&lt;br /&gt;And we&amp;#39;re out of Beta.&lt;br /&gt;We&amp;#39;re releasing on time.&lt;/i&gt;&lt;br /&gt;&lt;a href="http://www.youtube.com/watch?v=tZN-I3exT-c"&gt;Ellen McLain/Jonathan Coulton -- Portal, Still Alive&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;Yes, its true: We are out of Beta and we are releasing on time!&lt;br /&gt;And if you are adventurous, you can test the current LibreOffice 3.6.0 release candidate 1 from the &lt;a href="https://launchpad.net/~libreoffice/+archive/libreoffice-prereleases"&gt;LibreOffice prereleases PPA&lt;/a&gt;:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://launchpad.net/~libreoffice/+archive/libreoffice-prereleases/+sourcepub/2567713/+listing-archive-extra"&gt;for Quantal (Ubuntu 12.10) &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://launchpad.net/~libreoffice/+archive/libreoffice-prereleases/+sourcepub/2567709/+listing-archive-extra"&gt;for Ubuntu 12.04 LTS (Precise)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Please especially test &lt;a href="http://wiki.documentfoundation.org/ReleaseNotes/3.6"&gt;all the fancy new things in this release&lt;/a&gt;!&lt;br /&gt;One late feature (came in with beta3) I would like to especially point out are the new masterpages in Impress by Alexander Wilms, Mateus Machado Luna, Stefan Knorr and all the other cool guys on the &lt;a href="https://plus.google.com/102673546895803839652/posts"&gt;LibreOffice design team&lt;/a&gt;. And before anyone screams &amp;quot;pics or it didnt happen!&amp;quot; -- here is a screenshot of them running on Ubuntu Quantal:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style="text-align: center;"&gt;&lt;a href="http://pics.livejournal.com/sweetshark/pic/0000gfc1/"&gt;&lt;img alt="" height="480" src="http://pics.livejournal.com/sweetshark/pic/0000gfc1/s640x480" style="border-width: 0px; border-style: solid;" width="639" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;In addition, for the more conservative folks &lt;a href="https://launchpad.net/~libreoffice/+archive/ppa/+sourcepub/2567714/+listing-archive-extra"&gt;LibreOffice 3.5.5 rc3 (which is the final 3.5.5 version)&lt;/a&gt; has been updated to the &lt;a href="https://launchpad.net/~libreoffice/+archive/ppa?field.series_filter=precise"&gt;LibreOffice PPA&lt;/a&gt;.&lt;/div&gt;</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>14127</itemid>
+<eventtime>2012-07-16 17:56:00</eventtime>
+<logtime>2012-07-16 15:56:56</logtime>
+<subject>Move to wordpress</subject>
+<event>&lt;p style="text-align:right;"&gt;&lt;em&gt;I&amp;rsquo;m going slightly mad&lt;/em&gt;&lt;br /&gt;&lt;em&gt;It finally happened&lt;/em&gt;!&lt;/p&gt;&lt;p style="text-align:right;"&gt;&amp;ndash; Queen, Innuendo, I&amp;rsquo;m going slightly mad&lt;/p&gt;&lt;p style="text-align:left;"&gt;As question &amp;ldquo;why does my post not appear to be visible to the world on the blog hours after I posted&amp;rdquo; was replied with: &amp;ldquo;Yeah, that is just the caching. There is nothing we can do about it&amp;rdquo;. I finally decided to go &lt;a href="http://skyfromme.wordpress.com/"&gt;somewhere else&lt;/a&gt;. Should have done that a lot earlier, I guess: The post is still not up almost six hours later.&lt;/p&gt;</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+</livejournal>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livejournal>
+<entry>
+<itemid>12421</itemid>
+<eventtime>2012-06-08 23:03:00</eventtime>
+<logtime>2012-06-08 21:03:20</logtime>
+<subject>Ubuntu LibreOffice Development Kickstart Guide</subject>
+<event>This is a short note, that I wrote some short and concise wiki pages on LibreOffice development on Ubuntu. Please dont tell me that there is way more info on the TDF Wiki, thats true -- but also not the point: In fact, there is quite possibly &lt;i&gt;too much&lt;/i&gt; information on the TDF wiki&amp;nbsp; ;). So this is the stripped down info on what you really need to know to start working on &lt;a href="https://wiki.ubuntu.com/LibreOffice"&gt;LibreOffice on Ubuntu&lt;/a&gt;:&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://wiki.ubuntu.com/BuildingLibreOffice"&gt;Building LibreOffice&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://wiki.ubuntu.com/DebuggingLibreOffice"&gt;Debugging LibreOffice&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://wiki.ubuntu.com/LibreOfficePackaging"&gt;Packaging LibreOffice&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Also note the older page by Christopher M. Penalver about Bug Filing against LibreOffice on Ubuntu:&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://wiki.ubuntu.com/LibreOfficeBugWrangling"&gt;Bug reporting against LibreOffice on Ubuntu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;completing the bunch.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>12605</itemid>
+<eventtime>2012-06-11 23:01:00</eventtime>
+<logtime>2012-06-11 21:01:58</logtime>
+<subject>gerrit master sync from freedesktop</subject>
+<event>The &lt;a href="https://gerrit.libreoffice.org/gitweb?p=core.git;a=shortlog;h=refs%2Fheads%2Fmaster"&gt;master&lt;/a&gt; and the &lt;a href="https://gerrit.libreoffice.org/gitweb?p=core.git;a=shortlog;h=refs%2Fheads%2Flibreoffice-3-5"&gt;3.5.x&lt;/a&gt; and &lt;a href="https://gerrit.libreoffice.org/gitweb?p=core.git;a=shortlog;h=refs%2Fheads%2Flibreoffice-3-6"&gt;3.6.x&lt;/a&gt; release branches (links require OpenID login) on &lt;a href="https://gerrit.libreoffice.org"&gt;gerrit.libreoffice.org&lt;/a&gt; are now synced every 15 minutes by the friendly &lt;a href="https://launchpad.net/~r-gerrit-0"&gt;LibreOffice gerrit bot&lt;/a&gt; from freedesktop. If you based your patch on these branches more than 15 minutes ago, you can be sure to be able to send it there for review without any hassle. Once we make the gerrit repository our reference, this syncing isnt needed anymore of course (we would only need to push those changes to freedesktop then -- the other way around). But for all practical proposes, everyone should be able to submit his patches to gerrit with this.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>12841</itemid>
+<eventtime>2012-06-12 22:33:00</eventtime>
+<logtime>2012-06-12 20:33:47</logtime>
+<subject>LibreOffice 3.6.0 beta 1 preview packaged in ppa</subject>
+<event>Since a few days the &lt;a href="https://launchpad.net/~libreoffice/+archive/libreoffice-prereleases"&gt;libreoffice-prereleases ppa&lt;/a&gt; has &lt;a href="https://launchpad.net/~libreoffice/+archive/libreoffice-prereleases/+sourcepub/2499304/+listing-archive-extra"&gt;a version of LibreOffice 3.6.0 beta 1 packaged for Ubuntu precise (12.04 LTS)&lt;/a&gt; as a preview. It is not a release as it would end up in would end up in Ubuntu Quantal or one you would want to use on a productive system -- &lt;a href="http://nabble.documentfoundation.org/Re-Libreoffice-qa-ANN-LibreOffice-3-6-0-ALPHA1-test-builds-available-tp3988242p3988427.html"&gt;all the warnings for the 3.6.0 alpha 1 package&lt;/a&gt; still apply. So install this in a VM of your choice and go viciously testing on it! You are also invited to try out and explore all the &lt;a href="http://blog.documentfoundation.org/2012/06/03/"&gt;new&lt;/a&gt; &lt;a href="http://blog.documentfoundation.org/2012/06/03/new-and-changed-features-experience-and-test-them-now/"&gt;features&lt;/a&gt; of LibreOffice 3.6.x that Cor has so helpfully collected together in the linked blog posts!&lt;br /&gt;&lt;br /&gt;Happy testing!</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>13298</itemid>
+<eventtime>2012-06-16 23:25:00</eventtime>
+<logtime>2012-06-16 21:25:05</logtime>
+<subject>Gerrit for LibreOffice</subject>
+<event>&lt;div style="text-align: right;"&gt;&lt;i&gt;Sometimes I give myself the creeps&lt;br /&gt;Sometimes my mind plays tricks on me&lt;br /&gt;It all keeps adding up&lt;br /&gt;I think I&amp;#39;m cracking up&lt;br /&gt;Am I just paranoid?&lt;/i&gt;&lt;br /&gt;-- Basket Case, Green Day&lt;/div&gt;&lt;div&gt;&lt;br /&gt;It seems like the &lt;a href="https://gerrit.libreoffice.org/"&gt;gerrit for LibreOffice&lt;/a&gt; is ready for primetime now. I updated a sweet and short &lt;a href="https://wiki.documentfoundation.org/Development/gerrit"&gt;introduction&lt;/a&gt; on how to use it. If you want your first patch in LibreOffice, with gerrit you wont need a mailing list subscribe, a freedesktop account or any other administrative overhead. You just need this:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development/gerrit/setup"&gt;say hello to gerrit&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development/gerrit/SubmitPatch"&gt;give it your patches&lt;/a&gt;&lt;/li&gt;&lt;li&gt;done&lt;/li&gt;&lt;/ul&gt;For core developers, who want to review uploaded patches, this is needed:&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development/gerrit/setup"&gt;say hello to gerrit&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development/gerrit/PatchReview"&gt;find and get patches from it&lt;/a&gt;&lt;/li&gt;&lt;li&gt;done&lt;/li&gt;&lt;/ul&gt;I hope, we can again lower the barrier to entry for new contributors and make the progress of LibreOffice more transparent with this. In addition, it will simplify the discussion of certain changes and give it some more structure. Finally, this enables us to significantly improve the use of our &lt;a href="http://tinderbox.libreoffice.org/MASTER/status.html"&gt;tinderboxes&lt;/a&gt;. I expect &lt;a href="http://nabble.documentfoundation.org/probabilistic-approach-to-tinderboxing-td3989662.html"&gt;a lot of good things&lt;/a&gt; to happen there soon.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+</livejournal>

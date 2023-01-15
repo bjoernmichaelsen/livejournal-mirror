@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livejournal>
+<entry>
+<itemid>3997</itemid>
+<eventtime>2011-08-02 11:22:00</eventtime>
+<logtime>2011-08-02 09:22:13</logtime>
+<subject>Take It Easy</subject>
+<event>&lt;div style="text-align: right;"&gt; &lt;em&gt;Don&amp;rsquo;t let the sound of your own&lt;/em&gt;&lt;/div&gt;&lt;div style="text-align: right;"&gt; &lt;em&gt;Wheels drive you crazy&lt;/em&gt;&lt;br /&gt; &lt;span style="font-size:smaller;"&gt;&lt;i&gt;-- Eagles, Take It Easy&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;!--/em--&gt;Our own success with the EasyHacks -- a list of things to do for newcomers to get started with the LibreOffice project -- was a bit overwhelming: The amount of things to do and the amount of things getting done in short periods of time made the EasyHacks wiki page a hub of activity -- but it also became quickly confusing to the unsuspecting newcomer, who might soon feel like experiencing a &lt;a href="http://hacks.mit.edu/by_year/1991/fire_hydrant/fire_hydrant.html"&gt;MIT-style firehose education&lt;/a&gt;. So after a &lt;a href="http://nabble.documentfoundation.org/Re-tdf-discuss-Re-EasyHack-on-EasyHacks-td2750672.html"&gt;lively discussion on the dev@ mailing list&lt;/a&gt; we decided to take the main chunk of the task handling to bugzilla.&lt;br /&gt;&lt;br /&gt;So here they are, your shiny new EasyHacks:&lt;ul&gt; &lt;li&gt;  &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks"&gt;Easy Hacks Start Page&lt;/a&gt;&lt;/li&gt; &lt;li&gt;  &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks_by_required_Skill"&gt;Easy Hacks by Required Skill&lt;/a&gt;&lt;/li&gt; &lt;li&gt;  &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks_by_Difficulty"&gt;Easy Hacks by Difficulty&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;You might miss &amp;quot;Easy Hacks by Topic&amp;quot; and &amp;quot;Easy Hacks by Component&amp;quot; and a few others, and you are right. And as with so many things at LibreOffice -- &lt;a href="https://bugs.freedesktop.org/show_bug.cgi?id=39753"&gt;there is an EasyHack for it&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;So while I will return to my vacation now, I wish you all some &lt;strong&gt;happy hacking&lt;/strong&gt;!&lt;br /&gt;&lt;br /&gt;P.S.:&lt;br /&gt;This might be a good time to check and update &amp;quot;your&amp;quot; EasyHacks:&lt;ul&gt; &lt;li&gt;If you are working on an Easy Hack and have a bugzilla account by now, you can assign it to yourself.&lt;/li&gt; &lt;li&gt;If you have finished an Easy Hack, you can close it on bugzilla.&lt;/li&gt; &lt;li&gt;If you have created Easy Hacks you might want to update their &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks_Bugzilla_Whiteboard_Status"&gt;tags&lt;/a&gt;, so that it shows up in the right lists. This is especially true for &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks_by_required_Skill#Skill_Level:_Unknown_8"&gt;these Easy Hacks&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>4298</itemid>
+<eventtime>2011-08-22 13:56:00</eventtime>
+<logtime>2011-08-22 11:56:54</logtime>
+<subject>One-click LibreOffice compiling, now with recent changes</subject>
+<event>&lt;a href="http://wiki.documentfoundation.org/Development/One_Git_Conversion"&gt;&lt;br /&gt;OneGit&lt;/a&gt; is there, which makes a lot of things really nice and nifty, so while we are at it: a big thumbs up to Norbert for that! Hendrik Jensen &lt;a href="http://nabble.documentfoundation.org/PATCH-Series-of-fixes-and-migration-to-One-Git-for-contrib-dev-tools-ubuntu-jenkins-tp3244052p3244052.html"&gt;send patches&lt;/a&gt; adjusting the Jenkins setup (Thanks!), which should make it even smoother to use. After that I also updated the &lt;a href="http://sweetshark.livejournal.com/1858.html"&gt;Jenkins-Ubuntu setup&lt;/a&gt; script because we can now use the git-plugin in Jenkins in a sensible way. Among other things (like automatic triggering builds on new commits), your one click compile now has a list of changes since the last build attached to it. So now you can start your day right:&lt;br /&gt;
+&lt;ul&gt;
+ &lt;li&gt;trigger the good-morning build (might be triggered automatically half an hour before you get up)&lt;/li&gt;
+ &lt;li&gt;fetch a coffee or tea&lt;/li&gt;
+ &lt;li&gt;have a look at what happened on master since your last build:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style="text-align: center;"&gt;
+ &lt;br /&gt;
+ &lt;br /&gt;
+ &lt;br /&gt;
+ &lt;a href="http://pics.livejournal.com/sweetshark/pic/00007ct9/"&gt;&lt;img border="0" height="480" src="http://pics.livejournal.com/sweetshark/pic/00007ct9/s640x480" width="517" /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;And yes, the &amp;quot;detail&amp;quot; link show the commit locally and the &amp;quot;gitweb&amp;quot; links go to &lt;a href="http://cgit.freedesktop.org/libreoffice/core/commit"&gt;http://cgit.freedesktop.org/libreoffice/core/commit&lt;/a&gt; .</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+</livejournal>

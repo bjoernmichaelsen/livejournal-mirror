@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livejournal>
+<entry>
+<itemid>4478</itemid>
+<eventtime>2011-09-05 20:52:00</eventtime>
+<logtime>2011-09-05 18:52:41</logtime>
+<subject>Following Libreoffice development</subject>
+<event>&lt;div style="text-align: right;"&gt; &lt;i&gt;Talk to me, so you can see&lt;br /&gt;Oh, what&amp;#39;s going on&lt;br /&gt;What&amp;#39;s going on&lt;br /&gt; &lt;span style="font-size:smaller;"&gt;&lt;i&gt;-- Marvin Gaye, What&amp;#39;s Going On&lt;/i&gt;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;&lt;i&gt;On the &lt;a href="http://wiki.documentfoundation.org/Hackfest2011"&gt;exciting and successful Hackfest 2011&lt;/a&gt; one question that came up was how even non-developers can easily follow what is cooking in development. Luckily, with the migration to OneGit that got a lot easier:&lt;/i&gt;&lt;br /&gt;&lt;a href="http://cgit.freedesktop.org/libreoffice/core/log/"&gt;http://cgit.freedesktop.org/libreoffice/core/log/&lt;/a&gt;&lt;br /&gt;shows what is currently being worked on and changed in master. To follow the development locally (and even offline), one can:&lt;br /&gt;do (after installing git) on the commandline:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;git clone git://anongit.freedesktop.org/libreoffice/core &amp;amp;&amp;amp; cd core&lt;/b&gt;&lt;br /&gt;to get the repository and then:&lt;br /&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; git log&lt;/b&gt;&lt;br /&gt;to see what changes recently happened in the project. If one commit is of particular interest a:&lt;br /&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; git show &lt;i&gt;&amp;lt;commit-id&amp;gt;&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;shows details about that commit. Later, one can update the repository with&lt;br /&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; git pull&lt;/b&gt;&lt;br /&gt;to download the latest changes. For &lt;b&gt;pull&lt;/b&gt; and &lt;b&gt;clone&lt;/b&gt; one has to be online, but not for &lt;b&gt;log&lt;/b&gt; and &lt;b&gt;show&lt;/b&gt;.&lt;br /&gt;In addition, there are the tools &lt;a href="https://launchpad.net/ubuntu/+source/gitg"&gt;gitg&lt;/a&gt; and &lt;a href="http://www.kernel.org/pub/software/scm/git/docs/gitk.html"&gt;gitk&lt;/a&gt; with make all this available with a nice browsable graphical user interface.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>4636</itemid>
+<eventtime>2011-09-15 21:23:00</eventtime>
+<logtime>2011-09-15 19:23:37</logtime>
+<subject>No global menubar in Ubuntu Oneiric by default</subject>
+<event>This is a short note that the global menubar which integrated Libreoffice into Unity will not be enabled by default in the Ubuntu Oneiric release. It will still be installable with the package "lo-menubar". The reason is some remaining concern about stability which led to the more conservative decision to leave it opt-in for now.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>5112</itemid>
+<eventtime>2011-09-30 11:05:00</eventtime>
+<logtime>2011-09-30 09:05:48</logtime>
+<subject>Libreoffice for Windows -- builds and runs on Linux</subject>
+<event>I just wanted to share this: &lt;a href="http://nabble.documentfoundation.org/MinGW-cross-compilation-Runs-td3380547.html"&gt;MinGW cross-compilation: Runs!&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;And with this I am sending out big kudos to Tor, Kendy and Fridrich for making this possible. Now this is still very a early implementation and not ready for productive use, but being able to cross compile (native) and run (in wine) a huge package like Libreoffice for Windows with a complete open source stack is a major achievement in itself. It shows not only the dynamic in the Libreoffice project, it is also a testament to the power of open source as a whole.&lt;br /&gt;&lt;br /&gt;P.S.: This post is intentionally not tagged libreoffice to keep it from showing up on planet documentfoundation -- I leave the glory of that to the main implementers.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+</livejournal>

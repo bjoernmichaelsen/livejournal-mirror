@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livejournal>
+<entry>
+<itemid>11319</itemid>
+<eventtime>2012-05-02 20:52:00</eventtime>
+<logtime>2012-05-02 18:52:10</logtime>
+<subject>LibreOffice 3.5.3 for Ubuntu 12.04 LTS and updated bibisect</subject>
+<event>As &lt;a href="http://blog.documentfoundation.org/2012/05/02/the-document-foundation-announces-libreoffice-3-5-3/"&gt;announced &lt;/a&gt;by The Document Foundation, LibreOffice 3.5.3 has been released today. Ubuntu users who cant wait to have this release on their system, can install it from the &lt;a href="https://launchpad.net/~libreoffice/+archive/ppa"&gt;LibreOffice PPA&lt;/a&gt; right now. As far as I know, this is the first time that we have a Ubuntu package ready and build on the day of the release (3.5.3rc2 is 3.5.3 final), and this is the result of the simplification that both Debian and Ubuntu did in their packaging between 3.4 and 3.5. This package is also &lt;a href="https://launchpad.net/ubuntu/precise/+source/libreoffice"&gt;currently building in precise-proposed&lt;/a&gt; and will be a &lt;a href="https://wiki.ubuntu.com/StableReleaseUpdates"&gt;Stable Release Update&lt;/a&gt; for Ubuntu Precise. Since ~all the &lt;a href="http://people.canonical.com/~ubuntu-archive/pending-sru.html"&gt;changelog bugs&lt;/a&gt; have already been verified, this hopefully will be available as an automatic update to all users of Ubuntu 12.04 LTS in one or two weeks.&lt;br /&gt;&lt;br /&gt;I also updated the bibisect repository for LibreOffice 3.6. In now contains &lt;a href="http://people.canonical.com/~bjoern/bibisect-3.6-20120428.tar.xz"&gt;62 LibreOffice installations from December 8th (LibreOffice 3.5 branch off) to April, 28th in one 1.1GB download&lt;/a&gt;. Good &lt;a href="http://wiki.documentfoundation.org/QA/HowToBibisect"&gt;regression hunting&lt;/a&gt;!</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>11564</itemid>
+<eventtime>2012-05-05 20:18:00</eventtime>
+<logtime>2012-05-05 18:17:48</logtime>
+<subject>open source -- limitless innovation</subject>
+<event>&lt;div style="text-align: right;"&gt;&lt;i&gt;The reasonable man adapts himself to the world;
+the unreasonable one persists in trying to adapt the world to himself.
+Therefore all progress depends on the unreasonable man.
+-- G.B. Shaw&lt;/i&gt;&lt;/div&gt;
+&lt;span class="proflinkWrapper"&gt;&lt;span class="proflinkPrefix"&gt;Simon Phipps &lt;/span&gt;&lt;/span&gt;recently published this amazing article titled &amp;quot;&lt;a href="http://www.infoworld.com/d/open-source-software/ubuntu-and-android-match-made-in-open-source-192287"&gt;Ubuntu and Android: A match made in open source&lt;/a&gt;&amp;quot; and notes in it that:
+
+&lt;i&gt;That would have been impossible with proprietary systems. It was Bill Joy who once pointed out it&amp;#39;s impossible to hire all the smart people. Open source allows you to work and innovate with all the smart people.&lt;/i&gt;
+
+I think there is a deep wisdom in this quote. As Mark Shuttleworth &lt;a href="https://bugs.launchpad.net/ubuntu/+bug/1"&gt;put it so eloquently in Bug 1&lt;/a&gt;:
+
+&lt;i&gt;Non-free software is holding back innovation in the IT industry, restricting access to IT to a small part of the world&amp;#39;s population and limiting the ability of software developers to reach their full potential, globally.&lt;/i&gt;
+
+Open source allows people having ideas that seem foolish to the rest of the world to prove themselves right and the rest of the world wrong to the greater benefit of all. Being told &amp;quot;I am happy that there are crazy people like you on the LibreOffice project. Every sane person would have been sure that this cannot possibly work out.&amp;quot; as a praise by Michael Stahl after putting out bibisect shows this is one of the core values of our project. Many others deserve the same praise for succeeding in doing things that were deemed impossible by others. Setting up the foundation in the way it was done was one of them, but there were many others.
+
+And despite -- or maybe because of -- starting from nothing less than two years ago and bootstrapping all the tiny and big things that are needed to run a software project with more than 10 million lines of code, this project also en passant enabled things like &lt;a href="http://www.youtube.com/watch?v=wzc0uMXGFBY"&gt;this&lt;/a&gt;:
+
+&lt;div style="text-align: center;"&gt;
+&lt;lj-embed id="4"/&gt;
+&lt;a href="http://www.youtube.com/watch?v=wzc0uMXGFBY"&gt;&lt;img alt="" height="359" src="http://pics.livejournal.com/sweetshark/pic/0000eawe/s640x480" style="border-width: 0pt; border-style: solid;" width="640" /&gt;&lt;/a&gt;&lt;/div&gt;
+
+Despite initial skepticism, I by now firmly believe LibreOffice to be the project that will be able to change the world. Too many individuals in this project succeeded in doing the unreasonable, the foolish and the impossible. We started from nothing and we are still very hungry. We do not fear to innovate, just because someone thinks it would be unreasonable. We will: &lt;a href="http://www.youtube.com/watch?v=UF8uR6Z6KLc"&gt;Stay hungry, Stay foolish.&lt;/a&gt; And we are just getting started.
+
+P.S.: Lets each take this opportunity to look back down the road and thank somebody for doing something impossible, foolish or unreasonable. I, for one, thank Thorsten, Florian and Mike for their tireless and invisible work setting up the foundation: Thank you. And Norbert Thiebaud for doing all the hard work on the OneGit migration making bibisect possible in the first place: Again, Thank you! And &lt;a href="https://launchpad.net/~penalvch"&gt;Christopher M. Penalver&lt;/a&gt;, &lt;a href="http://rrbd.wordpress.com/"&gt;Rainer Bielefeld&lt;/a&gt;, &lt;a href="http://www.nouenoff.nl/"&gt;Cor Nouws&lt;/a&gt;, Sasha and many more for relentless bug wrangling: Again, Thank you! And &lt;a href="https://launchpad.net/~ricotz"&gt;Rico Tzschichholz&lt;/a&gt; for providing backports: Again, Thank you!&lt;br&gt;
+Please add more thanks in the comments, on twitter, g+ or whatever!</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>11927</itemid>
+<eventtime>2012-05-18 20:08:00</eventtime>
+<logtime>2012-05-18 18:08:10</logtime>
+<subject>Updated LibreOffice QA EasyHacks!</subject>
+<event>I recently updated the QA EasyHacks, here is a selection of Tasks related to QA that are easy for newcomers to get started with:
+
+&lt;ul&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=50100" rel="nofollow" target="_blank"&gt;Easy Hack 50100&lt;/a&gt; - Verify a Bugfix&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=50096" rel="nofollow" target="_blank"&gt;Easy Hack 50096&lt;/a&gt; - Bugzilla Twitter Integration&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=50099" rel="nofollow" target="_blank"&gt;Easy Hack 50099&lt;/a&gt; - Gather Own Bugzilla Requirements&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47666" rel="nofollow" target="_blank"&gt;Easy Hack 47666&lt;/a&gt; - improve calc&amp;#39;s filters test cases&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47656" rel="nofollow" target="_blank"&gt;Easy Hack 47656&lt;/a&gt; - Syncronize downstream/upstream bugs&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47653" rel="nofollow" target="_blank"&gt;Easy Hack 47653&lt;/a&gt; - Create VirtualBox image to generate stacktraces for crashes&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47652" rel="nofollow" target="_blank"&gt;Easy Hack 47652&lt;/a&gt; - Provide stacktraces for crashes in existing bug reports&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=46504" rel="nofollow" target="_blank"&gt;Easy Hack 46504&lt;/a&gt; - Bibisect regressions in LibreOffice&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47658" rel="nofollow" target="_blank"&gt;Easy Hack 47658&lt;/a&gt; - add Open-ID authentification for MozTrap&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=47650" rel="nofollow" target="_blank"&gt;Easy Hack 47650&lt;/a&gt; - Create a bibisect repo for 3.3-&amp;gt;3.4&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=41568" rel="nofollow" target="_blank"&gt;Easy Hack 41568&lt;/a&gt; - BSA: user-friendly bug submission: gracefully handle bad gateway&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=43291" rel="nofollow" target="_blank"&gt;Easy Hack 43291&lt;/a&gt; - BSA: better feedback on why submit is not allowed yet&lt;/li&gt;&lt;li&gt;&lt;a class="external text" href="https://bugs.freedesktop.org/show_bug.cgi?id=41256" rel="nofollow" target="_blank"&gt;Easy Hack 41256&lt;/a&gt; - BSA: no operation system selection in bugassistant&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;A full list of QA-related things to get started in the project can be found here: &lt;a href="https://wiki.documentfoundation.org/QA/Easy_Hacks"&gt;https://wiki.documentfoundation.org/QA/Easy_Hacks&lt;/a&gt;
+
+Verify a Bugfix a day, it keeps the doctor away! ;)</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>12149</itemid>
+<eventtime>2012-05-22 09:44:00</eventtime>
+<logtime>2012-05-22 07:44:31</logtime>
+<subject>LibreOffice EasyHacks on OpenHatch</subject>
+<event>Quick announcement: &lt;a href="http://openhatch.org/+projects/libreoffice"&gt;Libreoffice is now on OpenHatch&lt;/a&gt; and also &lt;a href="http://openhatch.org/search/?project=libreoffice&amp;amp;q="&gt;all our EasyHacks&lt;/a&gt; are. Looking forward to more unsuspecting contributors joining our weird ways this way ...</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+</livejournal>

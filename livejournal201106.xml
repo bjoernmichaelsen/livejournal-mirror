@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livejournal>
+<entry>
+<itemid>2271</itemid>
+<eventtime>2011-06-08 13:24:00</eventtime>
+<logtime>2011-06-08 11:29:42</logtime>
+<subject>debugging (Junit) subsequenttests made easy!</subject>
+<event>The Junit-based subsequenttests for LibreOffice have up to now been quite annoying to debug. &lt;br /&gt;Here is a quick reinteration on how to use the subsequenttests. To run the subsequenttests one would:&lt;br /&gt;&lt;div style="margin-left: 40px;"&gt;./configure ....&lt;br /&gt;make dev-install&lt;br /&gt;make check&lt;/div&gt;&lt;br /&gt;or, to run just the checks in one module:&lt;br /&gt;&lt;div style="margin-left: 40px;"&gt;source LinuxX86-64Env.Set.sh&lt;br /&gt;make -srf sw/Makefile subsequentcheck # or alternatively&lt;br /&gt;cd sw &amp;amp;&amp;amp; make -sr subsequentcheck&lt;/div&gt;&lt;br /&gt;To really see the test execute one would set gb_JunitTest_HEADLESS explicitly to empty:&lt;br /&gt;&lt;div style="margin-left: 40px;"&gt;export gb_JunitTest_HEADLESS=&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;br /&gt;Now, and this is new: To make debugging easier, there is another variable to control the behavior of the build system when running unittests:&lt;br /&gt;&lt;div style="margin-left: 40px;"&gt;export gb_JunitTest_DEBUGCOMMAND=&amp;quot;/bin/sh `readlink -f gnomedebug.sh`&amp;quot;&lt;/div&gt;&lt;br /&gt;Now, whenever a office instance is started, the debugcommand is executed afterwards (and before the tests start). &lt;a href="http://cgit.freedesktop.org/libreoffice/contrib/dev-tools/plain/junitdebug/gnomedebug.sh"&gt;gnomedebug.sh&lt;/a&gt; is a small shell script that starts gdb in a gnome-terminal and attaches to the soffice process. So with this, when running the tests, you get a gdb watching over the office instance that gets to execute the commands it gets from the test via UNO, making it much easier to debug crashers and other weird behavior that might be exposed by the tests. If you want to use another script for your (maybe non-gnome) environment, feel free to do so! And feel free to contribute your script to &lt;a href="http://cgit.freedesktop.org/libreoffice/contrib/dev-tools/tree/junitdebug"&gt;cgit.freedesktop.org/libreoffice/contrib/dev-tools/tree/junitdebug&lt;/a&gt;.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+</livejournal>

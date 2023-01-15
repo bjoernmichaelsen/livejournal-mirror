@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livejournal>
+<entry>
+<itemid>6340</itemid>
+<eventtime>2011-11-10 12:47:00</eventtime>
+<logtime>2011-11-10 11:47:26</logtime>
+<subject>LibreOffice EasyHacks Rotation</subject>
+<event>I just rotated the featured items on the &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks"&gt;LibreOffice EasyHacks Page&lt;/a&gt;. If you are interested in contributing and wondered what you could do, here are a few selected suggestions:&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39753"&gt;Improving EasyHacks Bugzilla-Wiki integration (Skills: PHP)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39674"&gt;find / fix all German spellings in internal APIs (Skills: grep, German, code reading)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38835"&gt;strip out non-trivial globals before main (Skills: build, simple C++)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39643"&gt;Improve build with/without symbols (Skills: build, autoconf, Perl)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;warning-free code (Skills: building the beast, basic C++ skills and the attitude to ask when in doubt)&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39748"&gt;Cleanup extensions list (Skills: C++, common sense, build)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38889"&gt;Make macro editing easier (Skills: simple C++ programming, willingness to learn a bit of VCL)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39428"&gt;audit / remove SvStream long operators (Skills: building, simple C++ programming)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=42100"&gt;calc sheet tab widget screen space usage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38246"&gt;Change visibility of comments / notes via Notes Ruler Control (Skills: C++)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38811"&gt;default to SQLite not HSQLDB in Base (Skills: build, C++)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;You will find more info on the &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks"&gt;LibreOffice EasyHacks Page&lt;/a&gt; and an even wider range of things to do on the &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks_by_required_Skill"&gt;EasyHacks by required Skill Page&lt;/a&gt;.</event>
+<security>private</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>6441</itemid>
+<eventtime>2011-11-13 22:13:00</eventtime>
+<logtime>2011-11-13 21:13:31</logtime>
+<subject>LibreOffice Easy Hacks Rotation</subject>
+<event>I just rotated the featured items on the &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks"&gt;LibreOffice EasyHacks Page&lt;/a&gt;. If you are interested in contributing and wondered what you could do, here are a few selected suggestions:&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39753"&gt;Improving EasyHacks Bugzilla-Wiki integration (Skills: PHP)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39674"&gt;find / fix all German spellings in internal APIs (Skills: grep, German, code reading)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38835"&gt;strip out non-trivial globals before main (Skills: build, simple C++)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39643"&gt;Improve build with/without symbols (Skills: build, autoconf, Perl)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;warning-free code (Skills: building the beast, basic C++ skills and the attitude to ask when in doubt)&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39748"&gt;Cleanup extensions list (Skills: C++, common sense, build)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38889"&gt;Make macro editing easier (Skills: simple C++ programming, willingness to learn a bit of VCL)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=39428"&gt;audit / remove SvStream long operators (Skills: building, simple C++ programming)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=42100"&gt;calc sheet tab widget screen space usage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38246"&gt;Change visibility of comments / notes via Notes Ruler Control (Skills: C++)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bugs.freedesktop.org/buglist.cgi?bug_id=38811"&gt;default to SQLite not HSQLDB in Base (Skills: build, C++)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;You will find more info on the &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks"&gt;LibreOffice EasyHacks Page&lt;/a&gt; and an even wider range of things to do on the &lt;a href="http://wiki.documentfoundation.org/Development/Easy_Hacks_by_required_Skill"&gt;EasyHacks by required Skill Page&lt;/a&gt;.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>6893</itemid>
+<eventtime>2011-11-18 15:15:00</eventtime>
+<logtime>2011-11-18 14:15:38</logtime>
+<subject>Easy Hacks by Topic</subject>
+<event>Just a short note:&lt;br /&gt;&lt;br /&gt;I finally created the &lt;a href="https://wiki.documentfoundation.org/Development/Easy_Hacks_by_Topic"&gt;Easy Hacks by Topic&lt;/a&gt; page. If you are for example only interested in UI relevant work, you easily find ~30 related open Easy Hacks on the topic page now. So all our Easy Hacks overviews are now:&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development/Easy_Hacks"&gt;Easy Hack Intro and Selection&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development/Easy_Hacks_by_required_Skill"&gt;Easy Hacks by required Skill&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development/Easy_Hacks_by_Topic"&gt;Easy Hacks by Topic&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://wiki.documentfoundation.org/Development/Easy_Hacks_by_Difficulty"&gt;Easy Hacks by Difficulty&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;To get your Easy Hack sorted in you need to use the &lt;a href="https://wiki.documentfoundation.org/Development/Easy_Hacks_Bugzilla_Whiteboard_Status"&gt;whiteboard status&lt;/a&gt;.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>6920</itemid>
+<eventtime>2011-11-22 14:51:00</eventtime>
+<logtime>2011-11-22 13:51:45</logtime>
+<subject>Interview about the LibreOffice Hackfest 2011 in Munich online</subject>
+<event>This is just a quick shameless plug, that &lt;a href="http://blog.documentfoundation.org/2011/11/20/interview-with-bjorn-michaelsen-about-the-hackfest/"&gt;my interview about LibreOffice Hackfest 2011 in Munich&lt;/a&gt; is online at &lt;a href="http://blog.documentfoundation.org/"&gt;the Document Foundation Blog&lt;/a&gt;.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+<entry>
+<itemid>7352</itemid>
+<eventtime>2011-11-26 13:20:00</eventtime>
+<logtime>2011-11-26 12:20:58</logtime>
+<subject>debugging LibreOffice</subject>
+<event>Debugging LibreOffice has just been made easier for developers. After you have made a developer installation with&lt;br /&gt;&lt;ul&gt;&lt;li&gt;make dev-install&lt;/li&gt;&lt;/ul&gt;you can (on Linux only for now) run:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;make debugrun&lt;/li&gt;&lt;/ul&gt;which will start you freshly build LibreOffice, while keeping an eye on it with gdb.</event>
+<security>public</security>
+<allowmask>0</allowmask>
+<current_music/>
+<current_mood/>
+</entry>
+</livejournal>
